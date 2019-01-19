@@ -10,6 +10,11 @@ Please update the readme if you start doing stuff
 * Backend architecture (AWS, lambdas?)
 * Web page 
 
+**Proposed Architecture**
+- General Backend based on :lambda:
+- Admin Frontend for managing the creation of new queues/QRs and managing the line, turns, etc.
+- PWA for a QA reader.
+
 **Current plan:**
 - Our current plan is to generate a code for each cell phone after they take a QR code picture
 - The QR code is displayed on a screen
