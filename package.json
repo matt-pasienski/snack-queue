@@ -1,0 +1,7 @@
+{
+  "name": "snack-queue",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.10.5"
+  }
+}
